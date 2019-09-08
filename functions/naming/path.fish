@@ -1,0 +1,2 @@
+
+alias path="name -p"
